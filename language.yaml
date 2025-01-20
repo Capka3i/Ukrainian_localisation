@@ -1,0 +1,10 @@
+jer:
+  name: Соловїна
+  systemLanguage: English
+  files:
+    - Localisation/backend_base.csv
+    - Localisation/backend_comments.csv
+    - Localisation/dialogue_base.csv
+    - Localisation/dialogue_comments.csv
+    - Localisation/frontend_base.csv
+    - Localisation/frontend_comments.csv

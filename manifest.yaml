@@ -1,0 +1,7 @@
+modId: "Ukrainian_localization"
+compatibleGameVersions:
+  - "1.8.3"
+languages:
+  filenames:
+    - language.yaml
+  replace: false
